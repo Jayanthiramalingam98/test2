@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sebastian_daschner.coffee_shop.orders.boundary.CoffeeShopMockitoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.023 s - in com.sebastian_daschner.coffee_shop.orders.boundary.CoffeeShopMockitoTest
